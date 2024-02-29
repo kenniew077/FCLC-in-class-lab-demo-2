@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://cvpqf3xaiorkg"]
 
-[ext_resource type="PackedScene" uid="uid://ckptl315nf0l" path="res://tree.tscn" id="1_eq8s7"]
+[ext_resource type="PackedScene" uid="uid://ckptl315nf0l" path="res://Lab1/tree.tscn" id="1_eq8s7"]
 [ext_resource type="Texture2D" uid="uid://cp8sqevh0frj2" path="res://icon.svg" id="1_fo75o"]
-[ext_resource type="Texture2D" uid="uid://dmtlb0a43xww5" path="res://rock.png" id="3_j720n"]
+[ext_resource type="Texture2D" uid="uid://dmtlb0a43xww5" path="res://Lab1/rock.png" id="3_j720n"]
 
 [node name="Mainscene" type="Node2D"]
 
